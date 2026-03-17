@@ -42,6 +42,7 @@ While building this project, I improved my understanding of:
 
 - **The Table element**: How to structure tabular data semantically using `<table>`, `<thead>`, `<tbody>`, and `<tr>`, and when it's appropriate to use tables instead of other layout methods.
 - **Clamp function**: How to create responsive values (like font sizes and spacing) using `clamp()` to smoothly scale between minimum and maximum values based on viewport size.
+- **`:nth-child()` selector**: Used `:nth-child(2)` to target specific elements for styling.
 
 ### Useful resources
 
@@ -49,6 +50,7 @@ While building this project, I improved my understanding of:
 - [You Don’t Know HTML Tables](https://blog.frankmtaylor.com/2026/03/05/you-dont-know-html-tables/): A deeper dive into table semantics, structure, and best practices that helped reinforce proper usage.
 - [Clamp function](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/clamp) : Helped me understand how `clamp()` works and when to use it.
 - [Clamp calculator](https://www.marcbacon.com/tools/clamp-calculator/) : Very useful for generating responsive `clamp()` values quickly.
+- [:nth-child()](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:nth-child) : A helpful guide for targeting elements based on their position in the DOM.
 
 ## Author
 
